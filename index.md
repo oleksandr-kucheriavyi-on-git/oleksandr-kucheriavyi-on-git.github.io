@@ -6,4 +6,4 @@ title: Моя домашня сторінка
 Це мій перший сайт на GitHub Pages!
 
 ## Шейдери
-[Contribution guidelines for this project](shaders/index.md)
+[збірка інформації по шейдерам](shaders/index.md)
